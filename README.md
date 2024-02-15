@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SaiKiranReddy28
-- 👀 I’m interested in Data Science, ComputerVision, AI, ML.
-- 🌱 I’m currently learning ComputerVision and Deep Learning
-- 💞️ I’m looking to collaborate on new product based on Computer Vision
+- 👀 I am interested in Full Stack Development.
+- 💞️ I’m looking to collaborate on new product-based Web Development.
 - 📫 How to reach me saikiranreddymekala28@gmail.com
 
 <!---
